@@ -1,0 +1,28 @@
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.deps.json
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.runtimeconfig.json
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.pdb
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.AssemblyInfoInputs.cache
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.AssemblyInfo.cs
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.csproj.CoreCompileInputs.cache
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/refint/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.pdb
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.genruntimeconfig.cache
+/Users/zehrairemuzunoglu/Desktop/hibrit güvenlik/GuvenlikArayuzu/obj/Debug/net9.0/ref/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.deps.json
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.runtimeconfig.json
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/bin/Debug/net9.0/GuvenlikArayuzu.pdb
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.AssemblyInfoInputs.cache
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.AssemblyInfo.cs
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.csproj.CoreCompileInputs.cache
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/refint/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.pdb
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.genruntimeconfig.cache
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/ref/GuvenlikArayuzu.dll
