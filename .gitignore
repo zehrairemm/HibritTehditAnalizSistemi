@@ -1,0 +1,11 @@
+# Python Gerek Olmayanlar
+.venv/
+__pycache__/
+*.pkl
+*.pyc
+
+# C# Gerek Olmayanlar
+bin/
+obj/
+.vscode/
+*.DS_Store

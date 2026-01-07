@@ -4,8 +4,7 @@ using System.IO;
 
 class Program
 {
-    // DİKKAT: Aşağıdaki tırnak içine terminalden kopyaladığın yolu yapıştır.
-    // Örnek: "/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik"
+  
     const string PROJE_YOLU = @"/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik";
 
     static void Main(string[] args)
@@ -16,7 +15,7 @@ class Program
         Console.WriteLine("==========================================");
         Console.ResetColor();
 
-        // Klasör kontrolü (Hata varsa hemen söylesin)
+       
         if (!Directory.Exists(PROJE_YOLU))
         {
             Console.ForegroundColor = ConsoleColor.Red;
@@ -28,7 +27,7 @@ class Program
         while (true)
         {
             Console.Write("\n[?] Analiz edilecek metni girin (Çıkış için 'exit'): ");
-            string metin = Console.ReadLine();
+            string metin = Console.ReadLine() ?? "";
 
             if (metin.ToLower() == "exit") break;
 
@@ -39,11 +38,11 @@ class Program
 
     static string PythonAnaliziniCagir(string metin)
     {
-        // Yolları elle birleştiriyoruz, hata şansı %0
+       
         string scriptYolu = Path.Combine(PROJE_YOLU, "Model", "tahmin_et.py");
         string pythonYolu = Path.Combine(PROJE_YOLU, ".venv", "bin", "python");
 
-        // Eğer .venv içindeki python yoksa, sisteminkini kullan
+        
         if (!File.Exists(pythonYolu))
         {
             pythonYolu = "python3"; 
@@ -51,7 +50,7 @@ class Program
 
         ProcessStartInfo start = new ProcessStartInfo();
         start.FileName = pythonYolu;
-        start.Arguments = $"\"{scriptYolu}\" \"{metin}\""; // Tırnaklar boşluk sorununu çözer
+        start.Arguments = $"\"{scriptYolu}\" \"{metin}\"";
         start.UseShellExecute = false;
         start.RedirectStandardOutput = true;
         start.RedirectStandardError = true;

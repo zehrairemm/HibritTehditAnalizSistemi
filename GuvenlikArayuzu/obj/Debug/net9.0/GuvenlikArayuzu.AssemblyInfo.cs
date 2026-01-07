@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuvenlikArayuzu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9eba7870704e322651ce0483ebc5d201a71f978")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3468fca873d5355094caf72041391cca33c9cfec")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuvenlikArayuzu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuvenlikArayuzu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

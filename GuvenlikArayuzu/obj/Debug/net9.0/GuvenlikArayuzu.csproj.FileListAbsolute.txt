@@ -26,3 +26,4 @@
 /Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.pdb
 /Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.genruntimeconfig.cache
 /Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/ref/GuvenlikArayuzu.dll
+/Users/zehrairemuzunoglu/Desktop/HibritGuvenlik/GuvenlikArayuzu/obj/Debug/net9.0/GuvenlikArayuzu.sourcelink.json
